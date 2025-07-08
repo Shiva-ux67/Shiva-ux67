@@ -1,3 +1,4 @@
+<img align="right" src="https://github.com/Shiva-ux67/Shiva-ux67/blob/main/canva banner.jpg?raw=true" width="100%" />
 <h1 align="center">Hi 👋, I'm ShivaPrasad Jillapally</h1>
 <h3 align="center">A passionate Web Developer</h3>
 <hr>
