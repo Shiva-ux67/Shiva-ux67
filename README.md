@@ -1,24 +1,23 @@
 <h1 align="center">Hi 👋, I'm ShivaPrasad Jillapally</h1>
 <h3 align="center">A passionate Web Developer</h3>
 <hr>
-<div style="overflow: hidden;">
-  
-  <div style="float: left; width: 60%;">
-    <ul>
-      <li>🌱 I’m currently learning <strong>DSA + JAVA</strong></li>
-      <li>💬 Ask me about <strong>Frontend and Backend Development</strong></li>
-      <li>🚀 I’m building <strong>personal projects</strong> to improve my skills</li>
-      <li>📚 I love exploring <strong>new technologies and frameworks</strong></li>
-      <li>🧠 I'm passionate about <strong>problem-solving and clean code</strong></li>
-      <li>📫 Reach me at: <strong>jillapellyshivaprasad@gmail.com</strong></li>
-    </ul>
-  </div>
-
-  <div style="float: right; width: 35%;">
-    <img src="https://github.com/Shiva-ux67/Shiva-ux67/blob/main/coding.gif?raw=true" width="250px" />
-  </div>
-
-</div>
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>🌱 I’m currently learning <strong>DSA + JAVA</strong></li>
+        <li>💬 Ask me about <strong>Frontend and Backend Development</strong></li>
+        <li>🚀 I’m building <strong>personal projects</strong></li>
+        <li>📚 I love exploring <strong>new technologies and frameworks</strong></li>
+        <li>🧠 I'm passionate about <strong>problem-solving and clean code</strong></li>
+        <li>📫 Reach me at: <strong>jillapellyshivaprasad@gmail.com</strong></li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://github.com/Shiva-ux67/Shiva-ux67/blob/main/coding.gif?raw=true" width="250px" />
+    </td>
+  </tr>
+</table>
 
 
 ### Connect with me:
