@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm ShivaPrasad Jillapally</h1>
 <h3 align="center">A passionate Web Developer</h3>
 <hr>
+<div>
+<div align="left">
+  
 <ul>
   <li>🌱 I’m currently learning<strong> DSA+JAVA</strong></li>
   <li>💬 Ask me about<strong> Frontend and Backend Development</strong></li>
@@ -9,7 +12,11 @@
   <li>🧠 I'm passionate about <strong>problem-solving and clean code</strong></li>
   <li>📫 Reach me at: <strong>jillapellyshivaprasad@gmail.com</strong></li>
 </ul>
+</div>
+<div align="right">
 <img src="https://github.com/Shiva-ux67/Shiva-ux67/blob/main/coding.gif?row=true" width="300" />
+  <div>
+</div>
 
 
 ### Connect with me:
