@@ -20,10 +20,10 @@
 ### Connect with me:
 
 <p align="left">
-  <a href="[https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/shivaprasad-jillapally-181087334)" target="_blank">
+  <a href="https://www.linkedin.com/in/shivaprasad-jillapally-181087334" target="_blank">
  <img src="https://img.icons8.com/fluency/48/linkedin.png" width="30px" />
   </a>
-  <a href="[https://www.instagram.com/your-profile/](https://www.instagram.com/invites/contact/?utm_source=ig_contact_invite&utm_medium=copy_link&utm_content=mq6xit0)" target="_blank">
+  <a href="https://www.instagram.com/invites/contact/?utm_source=ig_contact_invite&utm_medium=copy_link&utm_content=mq6xit0" target="_blank">
     <img src="https://img.icons8.com/color/48/instagram-new--v1.png" width="30px" />
   </a>
 </p>
