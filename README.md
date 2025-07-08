@@ -1,19 +1,23 @@
 <h1 align="center">Hi 👋, I'm ShivaPrasad Jillapally</h1>
 <h3 align="center">A passionate Web Developer</h3>
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+<div style="overflow: hidden;">
   
-  <ul style="flex: 1;">
-    <li>🌱 I’m currently learning <strong>DSA + JAVA</strong></li>
-    <li>💬 Ask me about <strong>Frontend and Backend Development</strong></li>
-    <li>🚀 I’m building <strong>personal projects</strong> to improve my skills</li>
-    <li>📚 I love exploring <strong>new technologies and frameworks</strong></li>
-    <li>🧠 I'm passionate about <strong>problem-solving and clean code</strong></li>
-    <li>📫 Reach me at: <strong>jillapellyshivaprasad@gmail.com</strong></li>
-  </ul>
+  <div style="float: left; width: 60%;">
+    <ul>
+      <li>🌱 I’m currently learning <strong>DSA + JAVA</strong></li>
+      <li>💬 Ask me about <strong>Frontend and Backend Development</strong></li>
+      <li>🚀 I’m building <strong>personal projects</strong> to improve my skills</li>
+      <li>📚 I love exploring <strong>new technologies and frameworks</strong></li>
+      <li>🧠 I'm passionate about <strong>problem-solving and clean code</strong></li>
+      <li>📫 Reach me at: <strong>jillapellyshivaprasad@gmail.com</strong></li>
+    </ul>
+  </div>
 
-  <img src="https://github.com/Shiva-ux67/Shiva-ux67/blob/main/coding.gif?raw=true" width="250px" style="margin-left: 20px;" />
-  
+  <div style="float: right; width: 35%;">
+    <img src="https://github.com/Shiva-ux67/Shiva-ux67/blob/main/coding.gif?raw=true" width="250px" />
+  </div>
+
 </div>
 
 
