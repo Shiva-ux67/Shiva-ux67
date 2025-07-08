@@ -9,6 +9,7 @@
   <li>🧠 I'm passionate about <strong>problem-solving and clean code</strong></li>
   <li>📫 Reach me at: <strong>jillapellyshivaprasad@gmail.com</strong></li>
 </ul>
+<img src="https://github.com/Shiva-ux67/Shiva-ux67/blob/main/coding.gif?row=true" width="300" />
 
 
 ### Connect with me:
