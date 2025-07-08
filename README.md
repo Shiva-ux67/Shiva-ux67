@@ -2,25 +2,26 @@
 <h3 align="center">A passionate Web Developer</h3>
 <hr>
 <div align="center">
-  <div style="display: inline-block; max-width: 100%; text-align: left;">
-    
-  <div style="display: inline-block; vertical-align: top; width: 60%; min-width: 250px;">
-    <ul>
-      <li>🌱 I’m currently learning <strong>DSA + JAVA</strong></li>
-      <li>💬 Ask me about <strong>Frontend and Backend Development</strong></li>
-      <li>🚀 I’m building <strong>personal projects</strong> to improve my skills</li>
-      <li>📚 I love exploring <strong>new technologies and frameworks</strong></li>
-      <li>🧠 I'm passionate about <strong>problem-solving and clean code</strong></li>
-      <li>📫 Reach me at: <strong>jillapellyshivaprasad@gmail.com</strong></li>
-    </ul>
-  </div>
+  <div style="display: inline-block; max-width: 100%; text-align: left; vertical-align: top;">
 
-  <div style="display: inline-block; vertical-align: top; width: 35%; min-width: 200px; text-align: center;">
-    <img src="https://github.com/Shiva-ux67/Shiva-ux67/blob/main/coding.gif?raw=true" width="250px" alt="Coding gif" />
-  </div>
+    <div style="display: inline-block; width: 60%; vertical-align: top;">
+      <ul>
+        <li>🌱 I’m currently learning <strong>DSA + JAVA</strong></li>
+        <li>💬 Ask me about <strong>Frontend and Backend Development</strong></li>
+        <li>🚀 I’m building <strong>personal projects</strong> to improve my skills</li>
+        <li>📚 I love exploring <strong>new technologies and frameworks</strong></li>
+        <li>🧠 I'm passionate about <strong>problem-solving and clean code</strong></li>
+        <li>📫 Reach me at: <strong>jillapellyshivaprasad@gmail.com</strong></li>
+      </ul>
+    </div>
+
+    <div style="display: inline-block; width: 38%; text-align: center;">
+      <img src="https://github.com/Shiva-ux67/Shiva-ux67/blob/main/coding.gif?raw=true" width="250px" alt="Coding" />
+    </div>
 
   </div>
 </div>
+
 
 
 
