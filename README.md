@@ -3,7 +3,11 @@
 <hr>
 <ul>
   <li>🌱 I’m currently learning<strong> DSA+JAVA</strong></li>
-  <li>💬 Ask me about<strong>Frontend and Backend Development</strong></li>
+  <li>💬 Ask me about<strong> Frontend and Backend Development</strong></li>
+  <li>🚀 I’m building <strong>personal projects</strong> to improve my skills</li>
+  <li>📚 I love exploring <strong>new technologies and frameworks</strong></li>
+  <li>🧠 I'm passionate about <strong>problem-solving and clean code</strong></li>
+  <li>📫 Reach me at: <strong>jillapellyshivaprasad@gmail.com</strong></li>
 </ul>
 
 
